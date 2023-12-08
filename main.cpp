@@ -1,5 +1,6 @@
 ﻿#include"vector.h"
 #include<iostream>
+//add comment
 int main() {
 	int initialValues[] = { 5, 2, 9, 1, 5 };
 	Vector myVector(5, initialValues);
